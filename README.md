@@ -44,7 +44,6 @@ https://drive.google.com/file/d/1sv7GPb8uH-54cVuiPzOGPxH7AcD8oLuj/view?usp=shari
  https://drive.google.com/file/d/1imTB8B_Ia25Zt0PlJW1H644G0bj8muX8/view?usp=sharing
 - README.md – Project overview
 - screenshot.png – Sample output screenshot
- https://drive.google.com/file/d/1-Rb2GQZE17ivlKDbZ8_JQOiVUhoedrhZ/view?usp=sharing
 
 🧰 Tools & Technologies Used
 - Java SE
