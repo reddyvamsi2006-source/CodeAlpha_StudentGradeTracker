@@ -35,13 +35,16 @@ The goal of this task is to build a console-based Java program to input, manage,
 6. Display summary report and statistics in the console  
 
 🖥 Demo Video  
-🎥 Click to Watch Demo https://drive.google.com/file/d/1sv7GPb8uH-54cVuiPzOGPxH7AcD8oLuj/view?usp=sharing
+🎥 Click to Watch Demo 
+https://drive.google.com/file/d/1sv7GPb8uH-54cVuiPzOGPxH7AcD8oLuj/view?usp=sharing
  
 
 📁 Files in This Repository
-- GradingSystem.java – Main Java program   https://drive.google.com/file/d/1imTB8B_Ia25Zt0PlJW1H644G0bj8muX8/view?usp=sharing
+- GradingSystem.java – Main Java program
+ https://drive.google.com/file/d/1imTB8B_Ia25Zt0PlJW1H644G0bj8muX8/view?usp=sharing
 - README.md – Project overview
-- screenshot.png – Sample output screenshot  https://drive.google.com/file/d/1-Rb2GQZE17ivlKDbZ8_JQOiVUhoedrhZ/view?usp=sharing
+- screenshot.png – Sample output screenshot
+ https://drive.google.com/file/d/1-Rb2GQZE17ivlKDbZ8_JQOiVUhoedrhZ/view?usp=sharing
 
 🧰 Tools & Technologies Used
 - Java SE
